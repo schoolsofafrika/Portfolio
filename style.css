@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+
+  body{
+    width: 375px;
+    height: 5410px;
+  }
+  
+  header .container{
+      width: 100%;
+      margin-bottom: 0;
+  }
+  
+  header .container .second-container{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px 30px;
+  }
+  
+  header .container .second-container div{
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 20px;
+  }
+  
+  header .container .second-container nav{
+      padding-top: 5px;
+  }
+  
+  .header-background-mobile{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 40px;
+  }
+  
+section{
+    background-image: url(image/header-shapes-mobile.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.section-head{
+    padding-top: 100px;
+    width: 100%;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: consolas;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #172B4D;
+}
+
+.section-body{
+    margin-top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #172B4D;
+}
+
+section > p{
+    font-family: consolas;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    color: #7F8CFF;
+}
+
+.icons{
+    display: flex;
+    width: 100%;
+    margin-left: 30px;
+    margin-top: 3px;
+}
+
+.icons div{
+    padding-right: 20px;
+}
+
+.icons div img{
+    height: 13px;
+}
