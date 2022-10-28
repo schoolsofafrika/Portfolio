@@ -9,7 +9,7 @@
 
 - Html
 - css
-- 
+- Terminal
 
 ## Live Demo (if available)
 
