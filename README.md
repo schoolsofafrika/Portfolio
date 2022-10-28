@@ -1,5 +1,3 @@
-
-
 > This is a Portfolio website to showcase project
 
 
@@ -30,25 +28,15 @@ npm install - Installs the necessary dependencies
 Usage
 Open the index file and enjoy
 
-
-
-
 - GitHub: [@githubhandle]()
 - Twitter: [@twitterhandle](https://twitter.com/SchoolsAfrikana)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/okonkwo-echezona-4b92181b0/)
-
-
-
-
-
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-
 
 ## 📝 License
 
