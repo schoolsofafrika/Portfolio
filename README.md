@@ -1,4 +1,6 @@
-> This is a Portfolio website to showcase website
+
+> This is a Portfolio website to showcase project
+
 
 
 ## Built With
@@ -30,7 +32,9 @@ Open the index file and enjoy
 
 
 
+
 👤 **Author1**
+
 
 - GitHub: [@githubhandle]()
 - Twitter: [@twitterhandle](https://twitter.com/SchoolsAfrikana)
@@ -44,11 +48,10 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-
 
 
 
