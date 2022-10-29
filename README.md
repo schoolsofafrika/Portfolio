@@ -33,8 +33,8 @@ Open the index file and enjoy
 👤 **Author1**
 
 - GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle](https://twitter.com/SchoolsAfrikana)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okonkwo-echezona-4b92181b0/)
+- Twitter: [@twitterhandle](@SchoolsAfrikana)
+- LinkedIn: [LinkedIn](linkedin.com/in/okonkwo-echezona-4b92181b0)
 
 
 ## 🤝 Contributing
