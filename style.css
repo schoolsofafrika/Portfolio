@@ -1,11 +1,12 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
   width: 375px;
-  height: 5410px;
+  height: 5000px;
 }
 
 header .container {
@@ -102,23 +103,22 @@ section {
   display: flex;
   list-style-type: none;
 }
+
 /* secttion two area */
 .section-two {
-  width: 100%;
-  height: 552px;
   background-image: none;
   width: 327px;
 }
 
 .section-two .background {
   border-radius: 10px;
-  box-shadow: 3px 3px 8px #888888;
+  box-shadow: 3px 3px 8px #888;
   margin-left: 20px;
   margin-right: 20px;
-  height: 480px;
+  height: 500px;
   padding-left: 10px;
   padding-top: 15px;
-  background: #FFFFFF;
+  background: #fff;
 }
 
 .section-two .background div img {
@@ -134,7 +134,7 @@ section {
   line-height: 44px;
   margin-top: 5px;
   margin-bottom: 5px;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .section-two .background ul {
@@ -149,7 +149,7 @@ section {
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .section-two .background p {
@@ -159,7 +159,7 @@ section {
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .section-two .background .box {
@@ -168,7 +168,7 @@ section {
 
 .section-two .background .box div a {
   margin-right: 15px;
-  background: #EBEBFF;
+  background: #ebebff;
   border-radius: 8px;
   display: flex;
   flex-direction: row;
@@ -179,7 +179,7 @@ section {
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
-  color: #6070FF;
+  color: #6070ff;
   margin-top: 15px;
   text-decoration: none;
 }
@@ -190,10 +190,10 @@ section {
   flex-direction: column;
   align-items: center;
   padding: 7px;
-  border: 2px solid #DFE1E6;
+  border: 2px solid #dfe1e6;
   border-radius: 10px;
   gap: 12px;
-  background: #FFFFFF;
+  background: #fff;
 }
 
 .section-two .background button a {
@@ -203,7 +203,7 @@ section {
   font-weight: 500;
   font-size: 17px;
   line-height: 24px;
-  color: #396DF2;
+  color: #396df2;
   width: 100px;
   height: 24px;
 }
@@ -216,23 +216,24 @@ section {
   background-image: none;
   width: 327px;
 }
-  
+
 .section-two-2 .background {
   border-radius: 10px;
-  box-shadow: 3px 3px 8px #888888;
+  box-shadow: 3px 3px 8px #888;
   margin-left: 20px;
   margin-right: 20px;
-  height: 480px;
+  height: 520px;
   padding-left: 10px;
   padding-top: 15px;
-  background: #FFFFFF;
+  background: #fff;
+  margin-top: -150px;
 }
-  
+
 .section-two-2 .background div img {
   width: 263px;
   height: 220px;
 }
-  
+
 .section-two-2 .background h2 {
   font-family: 'Poppins';
   font-style: normal;
@@ -241,13 +242,13 @@ section {
   line-height: 30px;
   margin-top: 5px;
   margin-bottom: 5px;
-  color: #172B4D;
+  color: #172b4d;
 }
-  
+
 .section-two-2 .background ul {
   display: flex;
 }
-  
+
 .section-two-2 .background ul li {
   list-style-type: none;
   padding-right: 5px;
@@ -256,9 +257,9 @@ section {
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  color: #172B4D;
+  color: #172b4d;
 }
-  
+
 .section-two-2 .background p {
   margin-top: 15px;
   font-family: 'Poppins';
@@ -266,16 +267,16 @@ section {
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: #172B4D;
+  color: #172b4d;
 }
-  
+
 .section-two-2 .background .box {
   display: flex;
 }
-  
+
 .section-two-2 .background .box div a {
   margin-right: 15px;
-  background: #EBEBFF;
+  background: #ebebff;
   border-radius: 8px;
   display: flex;
   flex-direction: row;
@@ -286,23 +287,23 @@ section {
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
-  color: #6070FF;
+  color: #6070ff;
   margin-top: 15px;
   text-decoration: none;
 }
-  
+
 .section-two-2 .background button {
   margin-top: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 7px;
-  border: 2px solid #DFE1E6;
+  border: 2px solid #dfe1e6;
   border-radius: 10px;
   gap: 12px;
-  background: #FFFFFF;
+  background: #fff;
 }
-  
+
 .section-two-2 .background button a {
   text-decoration: none;
   font-family: 'Poppins';
@@ -310,7 +311,7 @@ section {
   font-weight: 500;
   font-size: 17px;
   line-height: 24px;
-  color: #396DF2;
+  color: #396df2;
   width: 100px;
   height: 24px;
 }
@@ -321,7 +322,7 @@ section {
   height: 850px;
   left: 375px;
   top: 4769px;
-  background: #FFFFFF;
+  background: #fff;
 }
 
 .about-myself-container h2 {
@@ -354,7 +355,7 @@ section {
   font-size: 16px;
   line-height: 24px;
   margin-top: 10px;
-  color: #7F8CFF;
+  color: #7f8cff;
 }
 
 .about-myself-container ul {
@@ -372,9 +373,9 @@ section {
   padding-right: 15px;
   padding-top: 3px;
   padding-bottom: 5px;
-  border: 1px solid #7F8CFF;
+  border: 1px solid #7f8cff;
   border-radius: 5px;
-  background: #FFFFFF;
+  background: #fff;
 }
 
 .about-myself-container .dropdown-menu {
@@ -395,14 +396,13 @@ section {
   display: flex;
   align-items: center;
   padding-right: 20px;
-    
 }
 
 .about-myself-container .dropdown-menu .drop1 ul li {
   list-style-type: none;
   width: 303px;
   height: 66.72px;
-  background: #F7F7F9;
+  background: #f7f7f9;
   margin-left: 20px;
 }
 
@@ -417,7 +417,7 @@ section {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  border-bottom: 1px solid #DFE1E6;
+  border-bottom: 1px solid #dfe1e6;
   width: 303px;
   height: 66.72px;
   padding-top: 20px;
@@ -426,12 +426,11 @@ section {
 .form-box {
   background-image: url(image/Contact-me.png);
   width: 303px;
-  height: 620px;
-  left: 0px;
+  height: 700px;
+  left: 0;
   top: 5410px;
   margin-top: 100px;
   margin-left: 20px;
-  
 }
 
 .form-box .text ul {
@@ -450,7 +449,7 @@ section {
   font-size: 40px;
   line-height: 52px;
   margin-top: 80px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .form-box .text ul:nth-child(2) li {
@@ -460,20 +459,19 @@ section {
   font-size: 20px;
   line-height: 28px;
   margin-left: 5px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .form-case {
   width: 300px;
   display: flex;
-  justify-content: ;
 }
 
 #name {
   margin-top: 30px;
 }
 
-.form-case form label input{
+.form-case form label input {
   width: 250px;
   padding: 10px;
   border-radius: 5px;
@@ -482,7 +480,7 @@ section {
   margin-left: 26px;
 }
 
-.form-case form textarea{
+.form-case form textarea {
   margin-left: 26px;
   width: 250px;
   padding: 10px;
@@ -501,5 +499,5 @@ section {
 
 .form-case form button a {
   text-decoration: none;
-  color: #396DF2;
+  color: #396df2;
 }
