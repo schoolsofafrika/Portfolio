@@ -175,13 +175,17 @@ section {
   color: #172b4d;
 }
 
+.about-myself-container ul {
+  margin-left: -27px;
+  margin-top: 10px;
+}
+
 .section-two .background ul {
   display: flex;
 }
 
-.about-myself-container ul {
-  margin-left: -27px;
-  margin-top: 10px;
+.about-myself-container ul li {
+  padding-right: 4px;
 }
 
 .section-two .background ul li {
@@ -364,10 +368,6 @@ section {
   background: #fff;
 }
 
-.about-myself-container ul li {
-  padding-right: 4px;
-}
-
 .about-myself-container .dropdown-menu {
   display: grid;
   row-gap: 20px;
@@ -473,4 +473,3 @@ section {
   margin-bottom: 15px;
   border: none;
 }
-
