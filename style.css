@@ -349,23 +349,27 @@ form button:hover {
 .contact-container form div {
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 
 form ul li input {
   border-radius: 10px;
   width: 100%;
-  padding: 10px 100px 10px 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
   margin-top: 20px;
   border: none;
   color: #172b4d;
   background-color: #fff;
+  width: 327px;
 }
 
 form ul li textarea {
   border-radius: 10px;
   width: 100%;
-  padding: 10px 100px 10px 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
   margin-top: 20px;
   border: none;
   color: #172b4d;
