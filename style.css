@@ -20,6 +20,10 @@ header .container .second-container {
   padding: 20px 30px;
 }
 
+form ul li {
+  list-style-type: none;
+}
+
 .icons ul li {
   padding-right: 20px;
 }
@@ -36,6 +40,12 @@ section > a {
   text-decoration: none;
 }
 
+form button a {
+  text-decoration: none;
+  color: #172b4d;
+  transition: all 1s;
+}
+
 .about-section button a {
   text-decoration: none;
   color: #396df2;
@@ -43,6 +53,10 @@ section > a {
   font-size: 17px;
   line-height: 24px;
   transition: all 1s;
+}
+
+form button a:hover {
+  color: #fff;
 }
 
 .about-section button a:hover {
@@ -227,12 +241,26 @@ section {
   margin-bottom: 20px;
 }
 
+form button {
+  margin-left: 20px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #fff;
+  transition: all 1s;
+}
+
 .about-section button {
   padding: 10px;
   border-radius: 10px;
   border: 1px solid #396df2;
   background-color: #f7f7f9;
   transition: all 1s;
+}
+
+form button:hover {
+  background-color: #396df2;
 }
 
 .about-section button:hover {
@@ -291,7 +319,7 @@ section {
 /* contact/form area */
 
 .contact-container {
-  padding: 100px 0px 30px 0px;
+  padding: 100px 0 30px 0;
   background-image: url(image/Contact-me.png);
 }
 
@@ -318,16 +346,12 @@ section {
   text-align: center;
 }
 
-.contact-container form div{
+.contact-container form div {
   display: flex;
   justify-content: center;
 }
 
-form ul li input {
-  width: ;
-}
-
-form ul li input, textarea {
+form ul li input,  textarea {
   border-radius: 10px;
   width: 100%;
   padding: 10px 100px 10px 20px;
@@ -335,32 +359,4 @@ form ul li input, textarea {
   border: none;
   color: #172b4d;
   background-color: #fff;
-}
-
-form ul li {
-  list-style-type: none;
-}
-
-form button {
-  margin-left: 20px;
-  margin-top: 10px;
-  border: none;
-  border-radius: 10px;
-  padding: 10px;
-  background-color: #fff;
-  transition: all 1s;
-}
-
-form button:hover {
-  background-color: #396df2;
-}
-
-form button a {
-  text-decoration: none;
-  color: #172b4d;
-  transition: all 1s;
-}
-
-form button a:hover {
-  color: #fff;
 }
