@@ -349,6 +349,7 @@ form button:hover {
 .contact-container form div {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 form ul li input {
